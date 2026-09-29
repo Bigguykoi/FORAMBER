@@ -24,7 +24,7 @@
     <br>
       <br>
         <br>
-        <img align="left" src="https://github.com/user-attachments/assets/9b4f376b-f694-4143-b54a-38bccf0e889b" width=600>
+        <img align="left" src="https://github.com/user-attachments/assets/9b4f376b-f694-4143-b54a-38bccf0e889b" width=400>
 
 <p align="center">
     <br>
@@ -34,7 +34,6 @@
      <td>
      <br>
       <br>
-        <br>
        <div align="center">
 
 
